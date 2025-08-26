@@ -15,5 +15,5 @@ The key technologies used to build your Power BI dashboard include core componen
 •	Power Query: Integrated within Power BI Desktop for data cleansing and transformation. It allows filtering, merging, and shaping various data sources before analysis. 
 •	DAX (Data Analysis Expressions): A formula language used to create custom measures, calculated columns, and perform complex aggregations within reports and dashboards. 
 •	Visualization Engine: Offers a wide range of dynamic visuals (maps, bar charts, treemaps, pie charts, tables) and supports interactivity such as drill-downs, cross-filtering, and tooltips. 
-•	Data Integration: Power BI can connect and fetch data from sources like Excel, SQL Server, Azure Data Lake, APIs, and cloud-based datasets for live analytics. 
+•	Data Integration: Power BI can connect and fetch data from sources like Excel, SQL Server, Azure Data Lake, APIs, and cloud-based datasets for live analytics.
 
